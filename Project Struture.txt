@@ -1,0 +1,7 @@
+
+
+
+ -> Controller --> api/auth
+ -> Model --> structure
+ -> Repository --> db operations
+ -> Service --> Business Logics
